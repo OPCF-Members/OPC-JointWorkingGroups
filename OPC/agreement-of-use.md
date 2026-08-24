@@ -6,6 +6,7 @@
 ## OPC FOUNDATION
 
 ### AGREEMENT OF USE
+  
 
 #### COPYRIGHT RESTRICTIONS
 * This document is provided "as is" by the OPC Foundation.
@@ -16,6 +17,7 @@
 * The user of the document agrees to indemnify OPC Foundation and their officers, directors and agents harmless from all demands, claims, actions, losses, damages (including damages from personal injuries), costs and expenses (including attorneys' fees) which are in any way related to activities associated with its use of content from this specification.
 * The document shall not be used in conjunction with company advertising, shall not be sold or licensed to any party.
 * The intellectual property and copyright is solely owned by the OPC Foundation.
+  
 
 #### PATENTS
 The attention of adopters is directed to the possibility that compliance with or adoption of OPC specifications may require use of an invention covered by patent rights. OPC Foundation shall not be responsible for identifying patents for which a license may be required by any OPC specification, or for conducting legal inquiries into the legal validity or scope of those patents that are brought to its attention. OPC specifications are prospective and advisory only. Prospective users are responsible for protecting themselves against liability for infringement of patents.
@@ -29,7 +31,7 @@ The entire risk as to the quality and performance of software developed using th
 This Specification is provided with Restricted Rights. Use, duplication, or disclosure by the U.S. government is subject to restrictions as set forth in (a) this Agreement pursuant to DFARs 227.7202-3(a); (b) subparagraph (c)(1)(i) of the Rights in Technical Data and Computer Software clause at DFARs 252.227-7013; or (c) the Commercial Computer Software Restricted Rights clause at FAR 52.227-19 subdivision (c)(1) and (2), as applicable. Contractor / manufacturer are the OPC Foundation, 16101 N. 82nd Street, Suite 3B, Scottsdale, AZ, 85260-1830
 
 #### COMPLIANCE
-The OPC Foundation shall at all times be the sole entities that may authorize developers, suppliers and sellers of hardware and software to use certification marks, trademarks, or other special designations to indicate compliance with these materials as specified within this document. Products developed using this specification may claim compliance or conformance with this specification if and only if the software satisfactorily meets the certification requirements set by  the OPC Foundation. Products that do not meet these requirements may claim only that the product was based on this specification and must not claim compliance or conformance with this specification. 
+The OPC Foundation shall at all times be the sole entities that may authorize developers, suppliers and sellers of hardware and software to use certification marks, trademarks, or other special designations to indicate compliance with these materials as specified within this document. Products developed using this specification may claim compliance or conformance with this specification if and only if the software satisfactorily meets the certification requirements set by the OPC Foundation. Products that do not meet these requirements may claim only that the product was based on this specification and must not claim compliance or conformance with this specification. 
 
 #### TRADEMARKS
 Most computer and software brand names have trademarks or registered trademarks. The individual trademarks have not been listed here.
