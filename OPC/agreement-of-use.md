@@ -16,7 +16,7 @@
 * OPC Foundation does not guarantee usability for any purpose and shall not be made liable for any case using the content of this document.
 * The user of the document agrees to indemnify OPC Foundation and their officers, directors and agents harmless from all demands, claims, actions, losses, damages (including damages from personal injuries), costs and expenses (including attorneys' fees) which are in any way related to activities associated with its use of content from this specification.
 * The document shall not be used in conjunction with company advertising, shall not be sold or licensed to any party.
-* The intellectual property and copyright is solely owned by the OPC Foundation.
+* The intellectual property and copyright are solely owned by the OPC Foundation.
   
 
 #### PATENTS
