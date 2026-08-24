@@ -5,9 +5,8 @@
 ---
 
 ## OPC FOUNDATION, GERMAN MACHINE TOOL BUILDERS’ ASSOCIATION (VDW)
-____________
-
 ### AGREEMENT OF USE
+
 
 #### COPYRIGHT RESTRICTIONS
 * This document is provided "as is" by the OPC Foundation and the VDW.
@@ -17,13 +16,13 @@ ____________
 * OPC Foundation and VDW do not guarantee usability for any purpose and shall not be made liable for any case using the content of this document.
 * The user of the document agrees to indemnify OPC Foundation and VDW and their officers, directors and agents harmless from all demands, claims, actions, losses, damages (including damages from personal injuries), costs and expenses (including attorneys' fees) which are in any way related to activities associated with its use of content from this specification.
 * The document shall not be used in conjunction with company advertising, shall not be sold or licensed to any party.
-* The intellectual property and copyright is solely owned by the OPC Foundation and the VDW.
+* The intellectual property and copyright are solely owned by the OPC Foundation and the VDW.
 
 #### PATENTS
 The attention of adopters is directed to the possibility that compliance with or adoption of OPC or VDW specifications may require use of an invention covered by patent rights. OPC Foundation or VDW shall not be responsible for identifying patents for which a license may be required by any OPC or VDW specification, or for conducting legal inquiries into the legal validity or scope of those patents that are brought to its attention. OPC or VDW specifications are prospective and advisory only. Prospective users are responsible for protecting themselves against liability for infringement of patents.
 
 #### WARRANTY AND LIABILITY DISCLAIMERS
-WHILE THIS PUBLICATION IS BELIEVED TO BE ACCURATE, IT IS PROVIDED "AS IS" AND MAY CONTAIN ERRORS OR MISPRINTS. THE OPC FOUDATION NOR VDW MAKES NO WARRANTY OF ANY KIND, EXPRESSED OR IMPLIED, WITH REGARD TO THIS PUBLICATION, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OF TITLE OR OWNERSHIP, IMPLIED WARRANTY OF MERCHANTABILITY OR WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR USE. IN NO EVENT SHALL THE OPC FOUNDATION NOR VDW BE LIABLE FOR ERRORS CONTAINED HEREIN OR FOR DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, RELIANCE OR COVER DAMAGES, INCLUDING LOSS OF PROFITS, REVENUE, DATA OR USE, INCURRED BY ANY USER OR ANY THIRD PARTY IN CONNECTION WITH THE FURNISHING, PERFORMANCE, OR USE OF THIS MATERIAL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+WHILE THIS PUBLICATION IS BELIEVED TO BE ACCURATE, IT IS PROVIDED "AS IS" AND MAY CONTAIN ERRORS OR MISPRINTS. THE OPC FOUNDATION NOR VDW MAKES NO WARRANTY OF ANY KIND, EXPRESSED OR IMPLIED, WITH REGARD TO THIS PUBLICATION, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OF TITLE OR OWNERSHIP, IMPLIED WARRANTY OF MERCHANTABILITY OR WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR USE. IN NO EVENT SHALL THE OPC FOUNDATION NOR VDW BE LIABLE FOR ERRORS CONTAINED HEREIN OR FOR DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, RELIANCE OR COVER DAMAGES, INCLUDING LOSS OF PROFITS, REVENUE, DATA OR USE, INCURRED BY ANY USER OR ANY THIRD PARTY IN CONNECTION WITH THE FURNISHING, PERFORMANCE, OR USE OF THIS MATERIAL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
 
 The entire risk as to the quality and performance of software developed using this specification is borne by you. 
 
